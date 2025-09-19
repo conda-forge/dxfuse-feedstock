@@ -1,5 +1,5 @@
 context:
-  version: 1.5.0
+  version: "1.6.0"
 
 package:
   name: dxfuse
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/dnanexus/dxfuse/archive/v${{ version }}.tar.gz
-  sha256: 1efd94fd461841e6c782dd1f246c8dacdbd1b28cba7b14797846b826eaab74a9
+  sha256: 7f792cbc755174ca573d12825a7ae5f8edddd113fd42214b932c9ef89c5ca986
 
 build:
   number: 0
